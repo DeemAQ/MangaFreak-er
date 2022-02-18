@@ -23,7 +23,7 @@ if '.' not in extension:
 
 output_folder = input("Enter the path of the folder you want to save to\n")
 if not os.path.exists(output_folder):
-	create_dir = input("path incorrect, want to create a new one in Desktop? (y)es/(n)o\n").lower()
+	create_dir = input("path incorrect, want to create a new one in the current directory? (y)es/(n)o\n").lower()
 	if "y" in create_dir:
 		output_folder = input("choose a folder name\n")
 		os.mkdir(output_folder)
