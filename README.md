@@ -26,7 +26,7 @@ Now delete the number, but leave the underscore! like this: http://images.mangaf
 6. Enter the extension of the files you're downloading 
 ![Extension of the file](/images/extension.jpg)
 
-7. Enter the path of the directory you want to download to (Linux style only!), or it will create a folder with a name you choose in the Desktop
+7. Enter the path of the directory you want to download to (Linux style only!), or it will create a folder with a name you choose in the directory the script is in
 8. Enjoy!
 
 This is a very simple script with many assumptions and basic error handling so use manga freak for best results
