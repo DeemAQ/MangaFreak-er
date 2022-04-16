@@ -2,7 +2,9 @@
 Python script to download manga in bulk, tested with [Manga Freak](https://w12.mangafreak.net/).
 
 Requirements:
+
 imutils
+
 requests
 
 `pip install -r requirements.txt`
