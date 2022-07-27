@@ -1,5 +1,5 @@
-# manga-downloader
-Python script to download manga in bulk, tested with [Manga Freak](https://w12.mangafreak.net/).
+# MangaFreak-er
+Python script to download manga in bulk from [Manga Freak](https://w12.mangafreak.net/).
 
 Requirements:
 
